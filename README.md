@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rondondaniel
-- 👀 I’m interested in Deep Learning and Kubeflow.
-- 🌱 I’m currently learning FastAPI, GatsbyJS and VueJS.
-- 💞️ I’m looking to collaborate on Deep Reinforcement Learning Projects
+- 👀 I’m interested in Deep Learning and LLMs Pipelines.
+- 🌱 I’m currently learning Llamaindex and Supabase.
+- 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 You can drop a message on my LinkedIn profile https://www.linkedin.com/in/danielrondon/
 
 <!---
