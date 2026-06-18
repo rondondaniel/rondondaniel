@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rondondaniel
 - 👀 I’m interested in Deep Learning and LLMs Pipelines.
-- 🌱 I’m currently learning Llamaindex and Supabase.
+- 🌱 I’m currently learning Google Agent Dev Kit (ADK).
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 You can drop a message on my LinkedIn profile https://www.linkedin.com/in/danielrondon/
 
